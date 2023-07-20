@@ -34,10 +34,5 @@ public class TestResultLogger implements ITestListener {
 
     // Implement other methods as per your requirements
 
-    @Override
-    public void onFinish(ITestContext context) {
-        // Cleanup or final logging statements can be added here
-    }
-
 
 }

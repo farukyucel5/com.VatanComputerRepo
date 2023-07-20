@@ -1,0 +1,1 @@
+{"uuid":"e12639dd-7895-4817-933d-475912c569c6","name":"tests.AddToCartEndToEndTest","children":["dd03e000-5efb-4372-bd2c-136c500c2e2c"],"befores":[],"afters":[{"name":"classTeardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1689872050694,"stop":1689872050882}],"start":1689871992075,"stop":1689872050882}
