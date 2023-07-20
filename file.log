@@ -1,0 +1,37 @@
+2023-07-20 11:57:30,082 INFO  [TestResultLogger] Starting test: addToCartEndToEndTest 
+2023-07-20 11:57:35,432 INFO  [TestResultLogger] Navigated to the page 
+2023-07-20 11:57:35,439 INFO  [TestResultLogger] The page is accessible 
+2023-07-20 11:57:35,497 INFO  [TestResultLogger] All the cookies have been accepted 
+2023-07-20 11:57:35,537 INFO  [TestResultLogger] Giris Yap element has been clicked 
+2023-07-20 11:57:38,711 INFO  [TestResultLogger] Giris Yap link has been clicked 
+2023-07-20 11:57:39,304 INFO  [TestResultLogger] The email has been fetched from the Excel file? 
+2023-07-20 11:57:39,390 INFO  [TestResultLogger] The email has been passed in the input box 
+2023-07-20 11:57:39,416 INFO  [TestResultLogger] The password has been retrieved from the Excel file 
+2023-07-20 11:57:39,480 INFO  [TestResultLogger] The password has been passed in the input box 
+2023-07-20 11:57:40,473 INFO  [TestResultLogger] Giris yap button has been hit 
+2023-07-20 11:57:40,497 INFO  [TestResultLogger] Assertion text has been obtained from the Excel file 
+2023-07-20 11:57:40,517 INFO  [TestResultLogger] Login has been successfully executed 
+2023-07-20 11:57:40,535 INFO  [TestResultLogger] Search keyword has been obtained from the Excel file 
+2023-07-20 11:57:40,593 INFO  [TestResultLogger] Search keyword has been passed in the search box 
+2023-07-20 11:57:40,641 INFO  [TestResultLogger] search button has been hit 
+2023-07-20 11:57:42,150 INFO  [TestResultLogger] Cep Telefonu option has been checked 
+2023-07-20 11:58:02,207 INFO  [TestResultLogger] All the text contents of the products listed have been added into a list 
+2023-07-20 11:58:02,207 INFO  [TestResultLogger] It has been verified that all the products listed are Samsung branded 
+2023-07-20 11:58:07,226 INFO  [TestResultLogger] The fifth product from the top has been clicked 
+2023-07-20 11:58:07,590 INFO  [TestResultLogger] Favorilere ekle icon has been clicked 
+2023-07-20 11:58:27,699 INFO  [TestResultLogger] Tamam button in the remove pop up has been pressed 
+2023-07-20 11:58:27,848 INFO  [TestResultLogger] Favorilere ekle icon has been clicked 
+2023-07-20 11:58:28,450 INFO  [TestResultLogger] It has been verified that the pop up window has been displayed 
+2023-07-20 11:58:28,470 INFO  [TestResultLogger] The pop up window has been closed 
+2023-07-20 11:58:28,905 INFO  [TestResultLogger] Hesabım button has been hit 
+2023-07-20 11:58:30,838 INFO  [TestResultLogger] Favori ürünlerim link has been hit 
+2023-07-20 11:58:30,862 INFO  [TestResultLogger] it has been verified that the product has been added into the favorite list 
+2023-07-20 11:58:30,963 INFO  [TestResultLogger] Sepete ekle button has been hit 
+2023-07-20 11:58:31,313 INFO  [TestResultLogger] sepete eklendi pop up has been displayed 
+2023-07-20 11:58:33,123 INFO  [TestResultLogger] Sepete git button has been hit 
+2023-07-20 11:58:33,993 INFO  [TestResultLogger] Close pop button has been hit 
+2023-07-20 11:58:34,048 INFO  [TestResultLogger] Trash button has been hit 
+2023-07-20 11:58:35,056 INFO  [TestResultLogger] It has been verified that the product is removed 
+2023-07-20 11:58:35,064 INFO  [TestResultLogger] Test passed: addToCartEndToEndTest 
+2023-07-20 11:58:35,298 INFO  [TestResultLogger] The page has been closed 
+2023-07-20 11:58:35,517 INFO  [TestResultLogger] All the test status have been saved in an Excel file 

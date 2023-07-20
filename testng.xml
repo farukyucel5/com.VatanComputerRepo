@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <listeners>
+        <listener class-name="testlogger.TestResultLogger"/>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+    <!-- Define your test cases and classes here -->
+    <test name="My Test">
+        <classes>
+            <class name="tests.AddToCartEndToEndTest"/>
+        </classes>
+    </test>
+</suite>
