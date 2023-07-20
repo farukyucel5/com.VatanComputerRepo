@@ -45,7 +45,7 @@ bu yol windowns kullanıcıları için geçerlidir MAC kullanıcıları "\\" çi
 Test xml dosyasından çalıştırılmalı 
 Test çalışıp bitince allure-results adında bir directory oluşacak ve burada allure report'un  json formatında dosyaları bulunur , bu dosyaları açıp raporu oluşturmak için,
 terminale 
-allure serve allure-results
+"allure serve allure-results"
 komutu yazılıp enter'a basılmalı, bu işlemden sonra
 rapor default browser'da açılacak.
 
